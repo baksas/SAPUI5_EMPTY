@@ -1,0 +1,19 @@
+{
+  "name": "openui5-sample-app",
+  "version": "0.2.0",
+  "description": "Sample of an OpenUI5 app",
+  "private": true,
+  "scripts": {
+    "start": "ui5 serve"
+  },
+  "dependencies": {
+    "@openui5/sap.m": "^1.60.0",
+    "@openui5/sap.ui.core": "^1.60.0",
+    "@openui5/sap.ui.layout": "^1.60.0",
+    "@openui5/sap.ui.commons": "^1.60.0",
+    "@openui5/themelib_sap_bluecrystal": "^1.60.0"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^1.0.0"
+  }
+}
